@@ -7,4 +7,6 @@ estudando python a partir da construção de projetos com o video do canal FreeC
 ### projetos 🏋️ 
 
 - [x] e-mail sender
+- [x] word replacement
+- [x] basic calculator
 - [ ] ...
