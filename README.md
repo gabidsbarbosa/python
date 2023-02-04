@@ -9,4 +9,6 @@ estudando python a partir da construção de projetos com o video do canal FreeC
 - [x] e-mail sender
 - [x] word replacement
 - [x] basic calculator
+- [x] e-mail slicer
+- [x] binary search algorithm
 - [ ] ...
